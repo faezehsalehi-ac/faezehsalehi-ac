@@ -24,7 +24,7 @@ I worked on my Bachelor's Thesis at the University of Kashan under the supervisi
 
 I’m currently working as ITIL expert in Irisa international company and also, I am learning profesional Machine learning for my new projects.
 
-I am going to share my projects that I did last four years...
+I am going to share some of my projects that I did last four years...
 
 If you have any questions from me, you can send me an E-mail:
 faezehsalehi.ac@gmail.com
