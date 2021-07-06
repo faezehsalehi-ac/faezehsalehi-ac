@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-For those of you who wonder, My name is Faezeh Salehi and I am graduate student at the University of Kashan. Currently, I am living in Esfahan, Iran.
+For those of you who wonder, My name is Faezeh Salehi and I completed my bachelor of computer engineering from the Kashan University in 2020. Currently, I am living in Esfahan, Iran.
 
 I'm working with various programming languages such as Python, JavaScript, C, C++, HTML, CSS. I am also looking forward to studying Master's in Artificial Intelligence and Machine Learning in the top universities globally, and I hope I can give you wonderful news from myself soon.
 
